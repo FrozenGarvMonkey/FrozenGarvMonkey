@@ -1,6 +1,5 @@
 <div  align="center">
    <h1>About Me</h1>
-   <br>
    I like programming.
    <br>
    <table>
